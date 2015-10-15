@@ -8,7 +8,7 @@ o aplicativo Android CBSoft 2016 - Maringá - PR.
 
                             Professor: Igor Steinmacher
 
-                                    **Alunos** 
+                                    Alunos 
 
                                 Diego Henrique Abreu
 
