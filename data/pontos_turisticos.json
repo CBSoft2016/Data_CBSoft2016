@@ -5,7 +5,7 @@
 
 	{		
 		"id": 01,
-		"pontoTuristico": "Basilica Nossa Senhora da Glória",
+		"pontoTuristico": "Basilica Nossa Senhora da Gloria",
 		"endereco": "Avenida Tiradentes, Centro",
 		"telefone": "(44) 3227 - 1993",
 		"url": "http://arquidiocesedemaringa.org.br/",
@@ -14,8 +14,8 @@
 
 	{		
 		"id": 02,
-		"pontoTuristico": "Ody Park Aquático Resort Hotel",
-		"endereco": "Rodovia PR 317, s/n - Zona Rural, Iguaraçu - PR,",
+		"pontoTuristico": "Ody Park Aquatico Resort Hotel",
+		"endereco": "Rodovia PR 317, s/n - Zona Rural, Iguaracu - PR,",
 		"telefone": "(44) 3029 - 2727",
 		"url": "http://www.odypark.com.br/",
 		"image":"http://www.odyparkhotel.com.br/sistema/fotos/grande/foto42.jpg"
@@ -32,8 +32,8 @@
 
 	{		
 		"id": 04,
-		"pontoTuristico": "Salto Bandeirantes - Hotel Fazenda e Estação de Lazer",
-		"endereco": "Rod. PR 317 - KM 47,86770-000, Santa Fé, Paraná, Brasil ",
+		"pontoTuristico": "Salto Bandeirantes - Hotel Fazenda e Estacao de Lazer",
+		"endereco": "Rod. PR 317 - KM 47,86770-000, Santa Fe, Parana, Brasil ",
 		"telefone": "(44) 3247 - 3295",
 		"url": "http://www.saltobandeirantes.com.br/",
 		"image":"http://www.pagliarinimarathonbike.com.br/wp-content/uploads/2014/11/Salto-Bandeirantes-PMB6-1.jpg"
