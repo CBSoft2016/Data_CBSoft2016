@@ -1,6 +1,7 @@
 ##Criando objetos para cadastro Hotéis
 
 ##Array de objetos 
+{
 "hotel_hostel":[
 
 	{		
@@ -39,3 +40,4 @@
 		"image":"http://www.thomasi.com/maringa/img/slide3.jpg"
 	}
 ]
+}

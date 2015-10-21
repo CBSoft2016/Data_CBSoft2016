@@ -1,6 +1,7 @@
 ##Cadastro da palestras
 
 ##Array de objetos das palestra que serão realizadas na CBSoft
+{
 "palestras": [
 
 	{
@@ -14,10 +15,10 @@
 			"trabalho":"Linux Foundation",
 			"imagem":"http://tecnologiaaberta.com.br/wp-content/uploads/2015/01/Linus_Torvalds_cropped.jpg",
 			"url":"http://www.linuxfoundation.org/blogs/linus-torvalds"
-			}
-		]
+			},
+		],
 
-	}
+	},
 
 	{
 		"idpalestras":"cbsoft2016002",
@@ -30,10 +31,10 @@
 			"trabalho":"Coordenador do Curso Ciencia da Computacao, UTFPR-CM",
 			"imagem":"http://src.odiario.com/imagem/2015/07/01/m_div-igor-steinmacher.JPG",
 			"url":"http://buscatextual.cnpq.br/buscatextual/visualizacv.do?id=K4762712T5"
-			}
-		]
+			},
+		],
 
-	}
+	},
 
 	{
 		"idpalestras":"cbsoft2016003",
@@ -46,9 +47,10 @@
 			"trabalho":"Middle Road Software",
 			"imagem":"http://upload.wikimedia.org/wikipedia/commons/e/e4/David_Parnas.jpg",
 			"url":"https://scholar.google.com/citations?user=t8GDoiMAAAAJ"
-			}
-		]
+			},
+		],
 
-	}
+	},
 
 ] 
+}
