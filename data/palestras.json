@@ -8,6 +8,7 @@
 		"idpalestras":"cbsoft2016001",
 		"titulo":"Criando o Sistema Operacional Unix",
 		"data":"14 de Setembro de 2016",
+		"descricao":"Palestra demonstrando como é o desenvolvimento de um sistema operacional",
 		"horario":"15:30",
 		"local":"Auditório Bloco E",
 		"palestrante":[
@@ -25,6 +26,7 @@
 		"idpalestras":"cbsoft2016002",
 		"titulo":"Supporting Newcomers to Overcome the Barriers to Contribute to Open Source Software Projects",
 		"data":"14 de Setembro de 2016",
+		"descricao":"Palestra demonstrativa das barreiras em contribuir com software livre",
 		"local":"Auditório Bloco E",
 		"horario":"13:00",
 		"palestrante":[
@@ -42,6 +44,7 @@
 		"idpalestras":"cbsoft2016003",
 		"titulo":"On the criteria to be used in decomposing systems into modules",
 		"data":"15 de Setembro de 2016",
+		"descricao":"Palestra com David Parnas que demonstra a decomposição do sistema em módulos",
 		"local":"Auditório Bloco E",
 		"horario":"13:00",
 		"palestrante":[
