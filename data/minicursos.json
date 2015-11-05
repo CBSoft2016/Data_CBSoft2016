@@ -6,6 +6,7 @@
 		"titulo": "Web Funcional com Clojure e Clojurescript",
 		"horario":"14:00",
 		"data":"14 de Setembro de 2016",
+		"local":"E101",
 		"instrutor":[
 			{
 				"nome":"Eduardo Radanovitsck",
@@ -21,6 +22,7 @@
 		"titulo": "Introducao a Gerencia de Portfolios de Projetos",
 		"horario":"14:00",
 		"data":"15 de Setembro de 2016",
+		"local":"E105",
 		"instrutor":[
 			{
 				"nome":"Cesar de Avila Rodrigues",
