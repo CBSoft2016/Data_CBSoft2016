@@ -4,7 +4,9 @@
 	{
 		"id":01,
 		"titulo": "Web Funcional com Clojure e Clojurescript",
+		"miniTitulo":"Funcional Clojure e Clojurescript",
 		"horario":"14:00",
+		"termino":"15:30",
 		"data":"14 de Setembro de 2016",
 		"descricao": "Minicurso voltado para desenvolvimento Clojure e Clojurescript",
 		"local":"E101",
@@ -17,7 +19,9 @@
 	{
 		"id":02,
 		"titulo": "Introducao a Gerencia de Portfolios de Projetos",
+		"miniTitulo":"Gerencia de Portfolios de Projetos",
 		"horario":"14:00",
+		"termino":"15:30",
 		"descricao": "Minicurso voltado para técnicas de gerenciamento de projetos",
 		"data":"15 de Setembro de 2016",
 		"local":"E105",
