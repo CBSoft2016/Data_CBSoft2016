@@ -1,0 +1,70 @@
+{
+  "pontos_turisticos":[
+
+    {
+      "id": "1",
+      "ponto_turistico": "Basilica Nossa Senhora da Gloria",
+      "endereco": "Avenida Tiradentes, Centro",
+      "telefone": "(44) 3227 - 1993",
+      "website": "http://arquidiocesedemaringa.org.br/",
+      "imagem":"http://farm1.static.flickr.com/148/409482674_a432ea32a7_b.jpg"
+    },
+
+    {
+      "id": "2",
+      "ponto_turistico": "Ody Park Aquatico Resort Hotel",
+      "endereco": "Rodovia PR 317, s/n - Zona Rural, Iguaracu - PR,",
+      "telefone": "(44) 3029 - 2727",
+      "website": "http://www.odypark.com.br/",
+      "imagem":"http://www.odyparkhotel.com.br/sistema/fotos/grande/foto42.jpg"
+    },
+
+    {
+      "id": "3",
+      "ponto_turistico": "Teatro Calil Haddad",
+      "endereco": "Av. Dr. Luiz Teixeira Mendes, 2.500",
+      "telefone": "(44) 3224 - 0485",
+      "website": null,
+      "imagem":"http://www2.maringa.pr.gov.br/sistema/imagens/gd_7c57ac684397.jpg"
+    },
+
+    {
+      "id": "4",
+      "ponto_turistico": "Salto Bandeirantes - Hotel Fazenda e Estacao de Lazer",
+      "endereco": "Rod. PR 317 - KM 47,86770-000, Santa Fe, Parana, Brasil ",
+      "telefone": "(44) 3247 - 3295",
+      "website": "http://www.saltobandeirantes.com.br/",
+      "imagem":"http://www.pagliarinimarathonbike.com.br/wp-content/uploads/2014/11/Salto-Bandeirantes-PMB6-1.jpg"
+    },
+
+    {
+    	"id":"5",
+    	"ponto_turistico":"Museu da Bacia do Paraná",
+    	"endereco":"Av. Colombo, 5.790",
+    	"telefone":"(44) 3261-4294  ",
+    	"website":null,
+    	"imagem":"http://media-cdn.tripadvisor.com/media/photo-s/03/bd/b1/be/museu-da-bacia-do-parana.jpg"
+    },
+
+
+    {
+    	"id":"6",
+    	"ponto_turistico":"Parque Florestal dos Pioneiros",
+    	"endereco":"Av. Itororó com a Av. Nóbrega | Zona 04",
+    	"telefone":"(44) 3221-1912",
+    	"website":null,
+    	"imagem":"http://media-cdn.tripadvisor.com/media/photo-s/03/bd/b0/61/parque-florestal-dos.jpg"
+    },
+
+
+    {
+    	"id":"7",
+    	"ponto_turistico":"Agua Azul Hotel Fazenda",
+    	"endereco":"Estrada Caminho do Peabirú, KM 4,5 - Bairro Arurau",
+    	"telefone":"(44) 3567 - 1027",
+    	"website":"http://www.aguaazul.com.br/",
+    	"imagem":"http://media-cdn.tripadvisor.com/media/photo-o/04/5a/90/31/hotel-fazenda-agua-azul.jpg"
+    }
+
+  ]
+}
